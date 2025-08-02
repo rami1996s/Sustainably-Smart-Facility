@@ -1,0 +1,18 @@
+# === Arduino Build Files ===
+*.elf
+*.hex
+*.bin
+*.bak
+*.tmp
+
+# === Python / AWS Lambda ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# === OS & Editor Files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
