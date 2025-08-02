@@ -69,8 +69,9 @@ As part of the Distributed Systems and Cloud/Edge Computing curriculum, this pro
 ```plaintext
 Arduino_Code/         # ESP32 sketch to publish sensor data
 AWS_Lambda/           # Python code for AWS Lambda function
-S3_Sample_Data/       # Sample archived sensor data (JSON)
-Glue_Athena/          # Athena SQL queries
 presentation/         # Project slides (.pptx)
 README.md             # Project documentation
 .gitignore            # Untracked/ignored files
+
+
+
