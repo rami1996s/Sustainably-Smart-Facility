@@ -1,4 +1,5 @@
 # Sustainably Smart Facility
+implemented with Hussein Mohammad in 2024
 
 An IoT-powered, cloud-integrated environmental monitoring and control system designed for sustainability, automation, and real-time insights. This project utilizes ESP32 devices and AWS cloud services for efficient sensor data management, actuation, and data-driven decision-making.
 
