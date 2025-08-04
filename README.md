@@ -64,14 +64,5 @@ As part of the Distributed Systems and Cloud/Edge Computing curriculum, this pro
 
 ---
 
-##  Folder Contents
-
-```plaintext
-Arduino_Code/         # ESP32 sketch to publish sensor data
-AWS_Lambda/           # Python code for AWS Lambda function
-presentation/         # Project slides (.pptx)
-README.md             # Project documentation
-.gitignore            # Untracked/ignored files
-
 
 
