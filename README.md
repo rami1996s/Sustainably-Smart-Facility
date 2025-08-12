@@ -1,7 +1,7 @@
 # Sustainably Smart Facility
 implemented with Hussein Mohammad in 2024
 
-An IoT-powered, cloud-integrated environmental monitoring and control system designed for sustainability, automation, and real-time insights. This project utilizes ESP32 devices and AWS cloud services for efficient sensor data management, actuation, and data-driven decision-making.
+An IoT-powered, cloud-integrated environmental monitoring system designed for sustainability, automation, and real-time insights. This project utilizes ESP32 devices and AWS cloud services for efficient sensor data management, and data-driven decision-making.
 
 ---
 
@@ -23,8 +23,7 @@ As part of the Distributed Systems and Cloud/Edge Computing curriculum, this pro
 | ESP32           | Sensor node and actuator controller    |
 | DHT11 Sensor    | Measures temperature and humidity      |
 | MQ-2 Sensor     | Detects gas/smoke                      |
-| Fan             | Ventilates when gas exceeds threshold  |
-| Servo Motor     | Controls window ventilation            |
+          |
 
 ---
 
@@ -36,7 +35,7 @@ As part of the Distributed Systems and Cloud/Edge Computing curriculum, this pro
 | **Lambda**      | Logic processing, command issuing, and data routing        |
 | **DynamoDB**    | Real-time structured storage of sensor data                |
 | **S3**          | Archives raw JSON sensor data                              |
-| **SNS**         | Sends notifications (e.g., actuator triggered)             |
+| **SNS**         | Sends notifications (e.g., The sensing Values are high)             |
 | **CloudWatch**  | Logs Lambda execution and system performance               |
 | **Glue**        | Crawls S3 bucket and prepares schema metadata              |
 | **Athena**      | Runs SQL-like queries on sensor data in S3                 |
