@@ -63,5 +63,9 @@ As part of the Distributed Systems and Cloud/Edge Computing curriculum, this pro
 
 ---
 
+![System Architecture](https://github.com/user-attachments/assets/2ae47352-30da-43ee-bb8d-08b01c738c71)
+
+
+
 
 
